@@ -1,0 +1,17 @@
+log_list:
+  wifi:
+    path:
+      -  /var/log/wifi.log
+      -  /var/log/system.log
+  system:
+    path:
+      -  /var/log/system.log
+      -  /var/log/syslog
+      -  /var/log/dmesg
+      -  /var/log/makilog
+  azuki:
+    path:
+      -  /var/log/dmesg
+      -  /var/log/dmesg
+      -  /var/log/syslog
+      -  /var/log/azuki.log

@@ -1,0 +1,5 @@
+lib/*.pyc
+lib/*.swp
+*.bak
+*.swp
+logs/*
